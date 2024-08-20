@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import CertificateCards from "./CertificateCards";
 import cert1 from "../../Assets/Certificates/Certificate.jpg";
 import cert2 from "../../Assets/Certificates/Google Cloud.jpg";
-import cert3 from "../../Assets/Certificates/Coursera Certificate.jpg";
+import cert3 from "../../Assets/Certificates/applied ML.jpg";
 import cert4 from "../../Assets/Certificates/Flipkart Certificate.jpg";
 import cert5 from "../../Assets/Certificates/AI Skillup.jpg";
 import cert6 from "../../Assets/Certificates/Opencv Certificate.jpg";
