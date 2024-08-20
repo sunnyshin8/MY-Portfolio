@@ -4,9 +4,9 @@ import Particle from "../Particle";
 import CertificateCards from "./CertificateCards";
 import cert1 from "../../Assets/Certificates/Certificate.jpg";
 import cert2 from "../../Assets/Certificates/Google Cloud.jpg";
-import cert3 from "../../Assets/Certificates/applied ML.jpg";
+import cert3 from "../../Assets/Certificates/applied ML.JPG";
 import cert4 from "../../Assets/Certificates/Flipkart Certificate.jpg";
-import cert5 from "../../Assets/Certificates/AI Skillup.jpg";
+import cert5 from "../../Assets/Certificates/Uipath.JPG";
 import cert6 from "../../Assets/Certificates/Opencv Certificate.jpg";
 import cert7 from "../../Assets/Certificates/Python Language Certificate.jpg";
 import cert8 from "../../Assets/Certificates/Robotics and embedded systems Certificate.jpg";
@@ -46,7 +46,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert3}
-              title="Sensors Study Certificate by University of Colorado"
+              title="Applied Machine Learning using Python by University of Michigan"
               certLink="https://linktocert3.com"
             />
           </Col>
