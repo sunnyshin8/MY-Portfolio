@@ -62,7 +62,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert5}
-              title="Artificial Intelligence Certificate by SkillUP"
+              title="RPADC Certificate by UIPath Community"
               certLink="https://linktocert5.com"
             />
           </Col>
