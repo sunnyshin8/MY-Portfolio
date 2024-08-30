@@ -14,6 +14,15 @@ function Experience() {
         <div className="timeline">
           <div className="timeline-item">
             <div className="timeline-item-content">
+              <h2>AI Intern </h2>
+              <h4>Devbtyes</h4>
+              <p>August 2024 - Ongoing</p>
+        </div>
+            <div className="timeline-item-marker"></div>
+          </div>
+        <div className="timeline">
+          <div className="timeline-item">
+            <div className="timeline-item-content">
               <h2>Data Analsyt Intern </h2>
               <h4>VMSK Retails</h4>
               <p>January 2024 - June 2024</p>
@@ -52,6 +61,7 @@ function Experience() {
             </div>
             <div className="timeline-item-marker"></div>
           </div>
+        </div>
         </div>
       </Container>
     </Container>

@@ -73,15 +73,6 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://pavit0512.github.io/Personal-Website/"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li> */}
             </ul>
           </Col>
         </Row>

@@ -5,7 +5,7 @@ import CertificateCards from "./CertificateCards";
 import cert1 from "../../Assets/Certificates/Certificate.jpg";
 import cert2 from "../../Assets/Certificates/Google Cloud.jpg";
 import cert3 from "../../Assets/Certificates/applied ML.JPG";
-import cert4 from "../../Assets/Certificates/Flipkart Certificate.jpg";
+import cert4 from "../../Assets/Certificates/ieee.jpg";
 import cert5 from "../../Assets/Certificates/Uipath.JPG";
 import cert6 from "../../Assets/Certificates/Opencv Certificate.jpg";
 import cert7 from "../../Assets/Certificates/Python Language Certificate.jpg";
@@ -54,7 +54,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert4}
-              title="Flipkart Grid 5.0 Finalist Certificate"
+              title="IEEE Explore Certificate"
               certLink="https://linktocert4.com"
             />
           </Col>

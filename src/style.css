@@ -445,8 +445,8 @@ button:focus {
 .timeline-item::before {
   content: "";
   position: absolute;
-  width: 12px; /* Adjust circle size */
-  height: 12px; /* Adjust circle size */
+  width: 12px; 
+  height: 12px; 
   background-color: white;
   border-radius: 50%;
   left: 50%; /* Center the circle */
