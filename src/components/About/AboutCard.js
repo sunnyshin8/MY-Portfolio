@@ -52,7 +52,7 @@ function AboutCard() {
             "Celebrate today's technology's enchantment, because it provides the
             basis for tomorrow's innovation."{" "}
           </p>
-          <footer className="blockquote-footer">Hemal Singloo</footer>
+          <footer className="blockquote-footer">Hemal Shingloo</footer>
         </blockquote>
       </Card.Body>
     </Card>
