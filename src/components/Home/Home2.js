@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import { AiFillGithub } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaResearchgate } from "react-icons/fa";
 import Experience from "./Experience";
 
 function Home2() {
@@ -54,15 +54,15 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
+              <li className="social-icons">
                 <a
-                  href="https://pavit0512.github.io/Personal-Website/"
+                  href="https://www.researchgate.net/profile/Hemal-Shingloo/"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillYoutube />
+                  <FaResearchgate />
                 </a>
-              </li> */}
+              </li>
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/hemal-shingloo-a21023238/"

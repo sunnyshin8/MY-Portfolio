@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import "../../style.css"; // Make sure to create and import this CSS file
+import "../../style.css";
 
 function CertificateCards(props) {
   return (

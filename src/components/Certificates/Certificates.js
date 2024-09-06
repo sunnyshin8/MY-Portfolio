@@ -5,14 +5,14 @@ import CertificateCards from "./CertificateCards";
 import cert1 from "../../Assets/Certificates/Certificate.jpg";
 import cert2 from "../../Assets/Certificates/Google Cloud.jpg";
 import cert3 from "../../Assets/Certificates/applied ML.JPG";
-import cert4 from "../../Assets/Certificates/ieee.jpg";
+import cert4 from "../../Assets/Certificates/ieee.JPG";
 import cert5 from "../../Assets/Certificates/Uipath.JPG";
-import cert6 from "../../Assets/Certificates/Opencv Certificate.jpg";
-import cert7 from "../../Assets/Certificates/Python Language Certificate.jpg";
-import cert8 from "../../Assets/Certificates/Robotics and embedded systems Certificate.jpg";
-import cert9 from "../../Assets/Certificates/Robotics and embedded systems Training Certificate.jpg";
-import cert10 from "../../Assets/Certificates/ROS with arduino.jpg";
-import cert11 from "../../Assets/Certificates/IIC certificate.png";
+import cert6 from "../../Assets/Certificates/cv.jpg";
+import cert7 from "../../Assets/Certificates/girlscript.JPG";
+import cert8 from "../../Assets/Certificates/NPTEL.JPG";
+import cert9 from "../../Assets/Certificates/robotics-SPACE.JPG";
+import cert10 from "../../Assets/Certificates/cwc.JPG";
+import cert11 from "../../Assets/Certificates/Software-training.JPG";
 
 
 function Certificates() {
@@ -70,7 +70,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert6}
-              title="OpenCV Certificate by SkillUP"
+              title="OpenCV Certificate by VITyarthi"
               certLink="https://linktocert6.com"
             />
           </Col>
@@ -78,7 +78,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert7}
-              title="Python Language Certificate By Udemy"
+              title="GGSOC Certificate by GirlScript Foundation"
               certLink="https://linktocert7.com"
             />
           </Col>
@@ -86,7 +86,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert8}
-              title="Robotics Internship Certificate by InMovidu Tech"
+              title="Privacy and Security in Online Social Media Certificate"
               certLink="https://linktocert8.com"
             />
           </Col>
@@ -94,7 +94,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert9}
-              title="Robotics Internship Training Certificate by APSIS Solutions"
+              title="Robotics Internship Training Certificate by SPACE"
               certLink="https://linktocert9.com"
             />
           </Col>
@@ -102,7 +102,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert10}
-              title="ROS With Arduino By Udemy"
+              title="Code Crafters Achievement Certificate"
               certLink="https://linktocert10.com"
             />
           </Col>
@@ -110,7 +110,7 @@ function Certificates() {
           <Col md={4} className="cert-card">
             <CertificateCards
               imgPath={cert11}
-              title="IIC Regional Meet Certificate"
+              title="Software Testing Training Certificate"
               certLink="https://linktocert11.com"
             />
           </Col>

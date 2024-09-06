@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { AiFillGithub } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaMediumM } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -46,15 +46,15 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            {/* <li className="social-icons">
+            <li className="social-icons">
               <a
-                href="https://pavit0512.github.io/Personal-Website/"
+                href="https://medium.com/@shingloo55"
                 style={{ color: "white" }}
                 rel="noopener noreferrer"
               >
-                <AiFillInstagram />
+                <FaMediumM />
               </a>
-            </li> */}
+            </li>
           </ul>
         </Col>
       </Row>
