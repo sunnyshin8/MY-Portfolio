@@ -3,19 +3,18 @@ import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
-import Projects from "./components/Projects/Projects";
 import Certificates from "./components/Certificates/Certificates";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
-import HousePricePrediction from "./components/Projects/HousePricePrediction";
-import SAM from "./components/Projects/SAM";
-import UniversalPowerSupply from "./components/Projects/UniversalPowerSupply";
-import TrafficRobot from "./components/Projects/TrafficRobot";
-import CHARM from "./components/Projects/CHARM";
-import FaceRecognition from "./components/Projects/FaceRecognition";
-import Turtlebot from "./components/Projects/Turtlebot_Stop";
-import ObjectDetection from "./components/Projects/Object_detection";
-import ObjectTracking from "./components/Projects/Object_tracking";
+// import HousePricePrediction from "./components/Projects/HousePricePrediction";
+// import SAM from "./components/Projects/SAM";
+// import UniversalPowerSupply from "./components/Projects/UniversalPowerSupply";
+// import TrafficRobot from "./components/Projects/TrafficRobot";
+// import CHARM from "./components/Projects/CHARM";
+// import FaceRecognition from "./components/Projects/FaceRecognition";
+// import Turtlebot from "./components/Projects/Turtlebot_Stop";
+// import ObjectDetection from "./components/Projects/Object_detection";
+// import ObjectTracking from "./components/Projects/Object_tracking";
 import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
@@ -41,8 +40,7 @@ function App() {
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/project" element={<Projects />} />
-          <Route path="/project/house-price-prediction" element={<HousePricePrediction />} />
+          {/* <Route path="/project/house-price-prediction" element={<HousePricePrediction />} />
           <Route path="/project/sam" element={<SAM />} />
           <Route path="/project/universal-power-supply" element={<UniversalPowerSupply />} />
           <Route path="/project/traffic-robot" element={<TrafficRobot />} />
@@ -50,7 +48,7 @@ function App() {
           <Route path="/project/face-recognition" element={<FaceRecognition />} />
           <Route path="/project/Turtlebot-Stop" element={<Turtlebot />} />
           <Route path="/project/object-detection" element={<ObjectDetection />} />
-          <Route path="/project/object-tracking" element={<ObjectTracking />} />
+          <Route path="/project/object-tracking" element={<ObjectTracking />} /> */}
           <Route path="/about" element={<About />} />
           <Route path="/certificates" element={<Certificates />} />
           <Route path="/resume" element={<Resume />} />
