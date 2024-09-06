@@ -11,12 +11,12 @@ function AboutCard() {
             Hello there, I'm <b className="purple">Hemal Shingloo</b>, a
             full-time <b className="purple">Machine Learning Engineer</b> with a
             background in{" "}
-            <b className="purple">Deep Learning and Busniess Analyst</b>.
+            <b className="purple">Deep Learning and Business Analyst</b>.
             Whether for work or for leisure, I enjoy exploring{" "}
             <b className="purple">ideas</b> that enhance people's lives and
             broaden the realm of possibilities. I'm a{" "}
             <b className="purple">sports aficionado</b> and love to explore
-            nature. I've succesfully completed{" "}
+            nature. I'll succesfully completing my {" "}
             <b className="purple">B.Tech in Computer Scinece and Engineering</b>{" "}
             from{" "}
             <b className="purple">
