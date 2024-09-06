@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn, FaMediumM } from "react-icons/fa";
+import { SiGmail } from "react-icons/si";
 
 function Footer() {
   let date = new Date();
@@ -27,15 +28,14 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            {/* <li className="social-icons">
+            <li className="social-icons">
               <a
-                href="https://pavit0512.github.io/Personal-Website/"
+                href="mailto:shingloo55@gmail.com"
                 style={{ color: "white" }}
-                rel="noopener noreferrer"
               >
-                <AiFillYoutube />
+                <SiGmail/>
               </a>
-            </li> */}
+            </li>
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/hemal-shingloo-a21023238/"
