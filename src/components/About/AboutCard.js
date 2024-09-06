@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p className="home-about-body">
-            Hello there, I'm <b className="purple">Hemal Singloo</b>, a
+            Hello there, I'm <b className="purple">Hemal Shingloo</b>, a
             full-time <b className="purple">Machine Learning Engineer</b> with a
             background in{" "}
             <b className="purple">Deep Learning and Busniess Analyst</b>.
